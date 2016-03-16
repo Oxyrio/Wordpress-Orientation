@@ -1,0 +1,41 @@
+Echauffement #2pts
+Installer WordPress & Créer un thème (index.php / style.css / screenshot.phg)
+
+Home #5pts
+Créer un menu wp pour la navigation princpale
+Créer un menu wp pour le footer
+Récupérer le nom du site (Réglages > Général)
+Créer le header.php et gérer le liens vers les ressources (ne pas oublier wp-head)
+Créer le footer.php et gérer le liens vers les ressources (ne pas oublier wp-footer)
+
+Home - Service #2pts
+Créer un custom post type "service"
+Titre + Content + Choix de l'icone sur http://fontawesome.io/icons/
+Boucle personnalisée sur la home pour en afficher 4
+
+Home - Portfolio #3pts
+Créer un custom post type "projet"
+Titre + Content + Image à la Une + Année de création + Client + Livrable + Lien vers projet
+Boucle personnalisée pour afficher les 4 derniers publiés (On affiche que les images à la une avec lien vers le projet)
+Liens vers page portfolio
+
+Portofolio #1pt
+Boucle personnalisée pour afficher tous les projets publiés (On affiche que les images à la une avec lien vers le projet)
+
+Portofolio - Projet #3pts
+Affichage des toutes les infos liées au projet
+Boucle personnalisée pour afficher tous les projets publiés sauf le projet en cours
+
+Qui sommes-nous #2pts
+Afficher le content avec des h2 à l'intérieur
+Afficher une vidéo dont le choix de l'ID est définissable dans le backoffice
+
+Contact #1pt
+Coordonnées + Formulaire
+
+Pour avoir un joli 20 #1pt
+Sur un projet afficher la liste des services utilisés
+Les services doivent être sélectionnable dans l'admin d'un projet parmis les services du backoffice (ACF relation)
+
+BON CHANCE ;)
+
